@@ -1,0 +1,88 @@
+*{
+    margin:0px;
+}
+.bg-container{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    height:100vh;
+    background-size:cover;
+    font-family:'Arial';
+    color:white; 
+}
+.first-container{
+    display:flex;
+    height:20vh;
+      
+}
+.first-box1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:red;
+    flex-grow:1;
+}
+.first-box2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: blue;
+    flex-grow:1;
+}
+.first-box3 {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:red;
+    flex-grow:1;
+}
+.second-container{
+    display:flex;
+    height:20vh;
+}
+.second-box1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:red;
+    flex-grow:2;
+}
+.second-box2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: blue;
+    flex-grow:1;
+}
+.second-box3 {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:red;
+    flex-grow:2;
+}
+.third-container{
+    display:flex;
+    height:20vh;
+}
+.third-box1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:red;
+    flex-grow:4;
+}
+.third-box2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: blue;
+    flex-grow:1;
+}
+.third-box3 {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:red;
+    flex-grow:4;
+}
